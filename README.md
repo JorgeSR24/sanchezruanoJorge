@@ -1,2 +1,2 @@
 # sanchezruanoJorge
-Markdown de las teconologías desarrolladas en Programación y Experiencia Laboral
+Markdown de las tecnologías desarrolladas en Programación y Experiencia Laboral
